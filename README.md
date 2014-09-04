@@ -30,43 +30,43 @@ possible starting locations for Sam.</p>
 
 Sample Input  Sample Output  Map (for reference)
 
-<p>Map:
+<p>Map:</p>
 
-a1 b1
+<p>a1 b1</p>
 
-a2 b1
+<p>a2 b1</p>
 
-a2 b2
+<p>a2 b2</p>
 
-a2 b3
+<p>a2 b3</p>
 
-b1 c1
+<p>b1 c1</p>
 
-b2 c2
+<p>b2 c2</p>
 
-b2 c3
+<p>b2 c3</p>
 
-b3 c3
+<p>b3 c3</p>
 
-Avoid:
+<p>Avoid:</p>
 
-b2
+<p>b2</p>
 
-Peggy:
+<p>Peggy:</p>
 
-a2
+<p>a2</p>
 
-Sam:
+<p>Sam:</p>
 
-c2 c3</p>
+<p>c2 c3</p>
 
-<p><b>Sample Output</b>
+<p><b>Sample Output</b></p>
 
-a2
+<p>a2</p>
 
-b3
+<p>b3</p>
 
-c3 </p>
+<p>c3 </p>
 
 <p><b>Guidelines, corner cases, and other details</p></b>
 
