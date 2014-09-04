@@ -28,7 +28,7 @@ the list of address pairs forming the map, followed by the list of addresses to
 avoid, the list of possible starting locations for Peggy, and finally the list of 
 possible starting locations for Sam.</p>
 
-Sample Input  Sample Output  Map (for reference)
+<b>Sample Input  Sample Output  Map (for reference)</b>
 
 <p>Map:</p>
 <p>a1 b1</p>
