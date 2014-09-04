@@ -31,24 +31,41 @@ possible starting locations for Sam.</p>
 Sample Input  Sample Output  Map (for reference)
 
 <p>Map:
+
 a1 b1
+
 a2 b1
+
 a2 b2
+
 a2 b3
+
 b1 c1
+
 b2 c2
+
 b2 c3
+
 b3 c3
+
 Avoid:
+
 b2
+
 Peggy:
+
 a2
+
 Sam:
+
 c2 c3</p>
 
 <p><b>Sample Output</b>
+
 a2
+
 b3
+
 c3 </p>
 
 <p><b>Guidelines, corner cases, and other details</p></b>
