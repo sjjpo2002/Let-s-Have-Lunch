@@ -31,43 +31,24 @@ possible starting locations for Sam.</p>
 Sample Input  Sample Output  Map (for reference)
 
 <p>Map:</p>
-
 <p>a1 b1</p>
-
 <p>a2 b1</p>
-
 <p>a2 b2</p>
-
 <p>a2 b3</p>
-
 <p>b1 c1</p>
-
 <p>b2 c2</p>
-
 <p>b2 c3</p>
-
 <p>b3 c3</p>
-
 <p>Avoid:</p>
-
 <p>b2</p>
-
 <p>Peggy:</p>
-
 <p>a2</p>
-
 <p>Sam:</p>
-
 <p>c2 c3</p>
-
 <p><b>Sample Output</b></p>
-
 <p>a2</p>
-
 <p>b3</p>
-
 <p>c3 </p>
-
 <p><b>Guidelines, corner cases, and other details</p></b>
 
 1.  Assume that the input is always well-formed - no need to guard against 
